@@ -1,0 +1,6 @@
+
+DFF Gate test ... Ok
+Bit Gate test ... Ok
+Register Gate test ...Input pin of Splitter ((21, 50)) and output pin of 06 Mux16 ((15, 45)) on 03 Register 16 bit have different bit width and cannot be connected. Please resolve the issue.
+PC Gate test ...Input pin of Splitter ((21, 50)) and output pin of 06 Mux16 ((15, 45)) on 03 Register 16 bit have different bit width and cannot be connected. Please resolve the issue.
+RAM8 Gate test ...Input pin of Splitter ((21, 50)) and output pin of Register 4 bit ((29, 47)) on 03 Register 16 bit have different bit width and cannot be connected. Please resolve the issue.

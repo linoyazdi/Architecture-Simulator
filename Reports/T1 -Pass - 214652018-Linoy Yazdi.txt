@@ -1,0 +1,15 @@
+
+And04 Gate test ... Ok
+And16 Gate test ... Ok
+Half Adder Gate test ... Ok
+Full Adder Gate test ... Ok
+Add4 Gate test ... Ok
+Add16 Gate test ... Ok
+inc16 Gate test ... Ok
+Mux04 Gate test ... Ok
+Mux16 Gate test ... Ok
+Mux4way16 Gate test ... Ok
+Mux8way16 Gate test ... Ok
+DMux4Way Gate test ... Ok
+DMux4Way Gate test ... Ok
+Advanced calculations test ... pass

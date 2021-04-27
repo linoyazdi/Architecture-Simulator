@@ -1,0 +1,7 @@
+
+Not Gate test ... Ok
+And Gate test ... Ok
+Or Gate test ... Ok
+Xor Gate test ... Ok
+Multiplexer Gate test ... Ok
+Demultiplexer Gate test ...Input pin in not found on Logical Circuit 06 Demultiplexer

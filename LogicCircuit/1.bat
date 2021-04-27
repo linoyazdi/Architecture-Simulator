@@ -1,0 +1,1 @@
+LogicCircuit.exe /r print 'hello'

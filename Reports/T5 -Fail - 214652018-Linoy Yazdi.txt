@@ -1,0 +1,2 @@
+
+CPU Gate test ...Input pin of 04 Program counter ((36, 52)) and output pin of Constant ((33, 46)) on 02 CPU have different bit width and cannot be connected. Please resolve the issue.

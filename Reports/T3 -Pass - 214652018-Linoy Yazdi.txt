@@ -1,0 +1,7 @@
+
+DFF Gate test ... Ok
+Bit Gate test ... Ok
+Register Gate test ... Ok
+PC Gate test ... Ok
+RAM8 Gate test ... Ok
+Memory Unit... fully operational

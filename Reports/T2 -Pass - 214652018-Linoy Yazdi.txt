@@ -1,0 +1,7 @@
+
+MiniALU Gate test ... Ok
+Not16 Gate test ... Ok
+Not16 Gate test ... Ok
+Or8Way Gate test ... Ok
+ALU Gate test ... Ok
+Arithmetic Logic Unit... fully operational

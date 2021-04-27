@@ -1,0 +1,4 @@
+
+-10 of 10
+CPU test ... Ok
+Memory Unit... fully operational

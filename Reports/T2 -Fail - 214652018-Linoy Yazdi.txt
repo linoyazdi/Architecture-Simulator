@@ -1,0 +1,390 @@
+
+MiniALU Gate test ... Ok
+Not16 Gate test ... Ok
+Not16 Gate test ... Ok
+Or8Way Gate test ... Ok
+
+python:769 output:769
+ nx:0 ny:0 zx:0 zy:0 no:0 x:10101 tx:10101 y:5003 ty:5003 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:64766 output:64766
+ nx:0 ny:0 zx:0 zy:0 no:1 x:10101 tx:10101 y:5003 ty:5003 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:9332 output:9332
+ nx:0 ny:1 zx:0 zy:0 no:0 x:10101 tx:10101 y:5003 ty:60532 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:56203 output:56203
+ nx:0 ny:1 zx:0 zy:0 no:1 x:10101 tx:10101 y:5003 ty:60532 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:4234 output:4234
+ nx:1 ny:0 zx:0 zy:0 no:0 x:10101 tx:55434 y:5003 ty:5003 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:61301 output:61301
+ nx:1 ny:0 zx:0 zy:0 no:1 x:10101 tx:55434 y:5003 ty:5003 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:51200 output:51200
+ nx:1 ny:1 zx:0 zy:0 no:0 x:10101 tx:55434 y:5003 ty:60532 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:14335 output:14335
+ nx:1 ny:1 zx:0 zy:0 no:1 x:10101 tx:55434 y:5003 ty:60532 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:0 ny:0 zx:0 zy:1 no:0 x:10101 tx:10101 y:5003 ty:0 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:0 ny:0 zx:0 zy:1 no:1 x:10101 tx:10101 y:5003 ty:0 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:10101 output:10101
+ nx:0 ny:1 zx:0 zy:1 no:0 x:10101 tx:10101 y:5003 ty:65535 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:55434 output:55434
+ nx:0 ny:1 zx:0 zy:1 no:1 x:10101 tx:10101 y:5003 ty:65535 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:1 ny:0 zx:0 zy:1 no:0 x:10101 tx:55434 y:5003 ty:0 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:1 ny:0 zx:0 zy:1 no:1 x:10101 tx:55434 y:5003 ty:0 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:55434 output:55434
+ nx:1 ny:1 zx:0 zy:1 no:0 x:10101 tx:55434 y:5003 ty:65535 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:10101 output:10101
+ nx:1 ny:1 zx:0 zy:1 no:1 x:10101 tx:55434 y:5003 ty:65535 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:0 ny:0 zx:1 zy:0 no:0 x:10101 tx:0 y:5003 ty:5003 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:0 ny:0 zx:1 zy:0 no:1 x:10101 tx:0 y:5003 ty:5003 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:0 ny:1 zx:1 zy:0 no:0 x:10101 tx:0 y:5003 ty:60532 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:0 ny:1 zx:1 zy:0 no:1 x:10101 tx:0 y:5003 ty:60532 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:5003 output:5003
+ nx:1 ny:0 zx:1 zy:0 no:0 x:10101 tx:65535 y:5003 ty:5003 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:60532 output:60532
+ nx:1 ny:0 zx:1 zy:0 no:1 x:10101 tx:65535 y:5003 ty:5003 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:60532 output:60532
+ nx:1 ny:1 zx:1 zy:0 no:0 x:10101 tx:65535 y:5003 ty:60532 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:5003 output:5003
+ nx:1 ny:1 zx:1 zy:0 no:1 x:10101 tx:65535 y:5003 ty:60532 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:0 ny:0 zx:1 zy:1 no:0 x:10101 tx:0 y:5003 ty:0 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:0 ny:0 zx:1 zy:1 no:1 x:10101 tx:0 y:5003 ty:0 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:0 ny:1 zx:1 zy:1 no:0 x:10101 tx:0 y:5003 ty:65535 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:0 ny:1 zx:1 zy:1 no:1 x:10101 tx:0 y:5003 ty:65535 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:1 ny:0 zx:1 zy:1 no:0 x:10101 tx:65535 y:5003 ty:0 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:1 ny:0 zx:1 zy:1 no:1 x:10101 tx:65535 y:5003 ty:0 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:65535 output:65535
+ nx:1 ny:1 zx:1 zy:1 no:0 x:10101 tx:65535 y:5003 ty:65535 f:0
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:1 ny:1 zx:1 zy:1 no:1 x:10101 tx:65535 y:5003 ty:65535 f:0
+\zr:0 tzr:1
+ ZR error
+
+
+python:15104 output:15104
+ nx:0 ny:0 zx:0 zy:0 no:0 x:10101 tx:10101 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:50431 output:50431
+ nx:0 ny:0 zx:0 zy:0 no:1 x:10101 tx:10101 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:5097 output:5097
+ nx:0 ny:1 zx:0 zy:0 no:0 x:10101 tx:10101 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:60438 output:60438
+ nx:0 ny:1 zx:0 zy:0 no:1 x:10101 tx:10101 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:60437 output:60437
+ nx:1 ny:0 zx:0 zy:0 no:0 x:10101 tx:55434 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:5098 output:5098
+ nx:1 ny:0 zx:0 zy:0 no:1 x:10101 tx:55434 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:50430 output:50430
+ nx:1 ny:1 zx:0 zy:0 no:0 x:10101 tx:55434 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:15105 output:15105
+ nx:1 ny:1 zx:0 zy:0 no:1 x:10101 tx:55434 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:10101 output:10101
+ nx:0 ny:0 zx:0 zy:1 no:0 x:10101 tx:10101 y:5003 ty:0 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:55434 output:55434
+ nx:0 ny:0 zx:0 zy:1 no:1 x:10101 tx:10101 y:5003 ty:0 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:10100 output:10100
+ nx:0 ny:1 zx:0 zy:1 no:0 x:10101 tx:10101 y:5003 ty:65535 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:55435 output:55435
+ nx:0 ny:1 zx:0 zy:1 no:1 x:10101 tx:10101 y:5003 ty:65535 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:55434 output:55434
+ nx:1 ny:0 zx:0 zy:1 no:0 x:10101 tx:55434 y:5003 ty:0 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:10101 output:10101
+ nx:1 ny:0 zx:0 zy:1 no:1 x:10101 tx:55434 y:5003 ty:0 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:55433 output:55433
+ nx:1 ny:1 zx:0 zy:1 no:0 x:10101 tx:55434 y:5003 ty:65535 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:10102 output:10102
+ nx:1 ny:1 zx:0 zy:1 no:1 x:10101 tx:55434 y:5003 ty:65535 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:5003 output:5003
+ nx:0 ny:0 zx:1 zy:0 no:0 x:10101 tx:0 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:60532 output:60532
+ nx:0 ny:0 zx:1 zy:0 no:1 x:10101 tx:0 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:60532 output:60532
+ nx:0 ny:1 zx:1 zy:0 no:0 x:10101 tx:0 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:5003 output:5003
+ nx:0 ny:1 zx:1 zy:0 no:1 x:10101 tx:0 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:5002 output:5002
+ nx:1 ny:0 zx:1 zy:0 no:0 x:10101 tx:65535 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:60533 output:60533
+ nx:1 ny:0 zx:1 zy:0 no:1 x:10101 tx:65535 y:5003 ty:5003 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:60531 output:60531
+ nx:1 ny:1 zx:1 zy:0 no:0 x:10101 tx:65535 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:5004 output:5004
+ nx:1 ny:1 zx:1 zy:0 no:1 x:10101 tx:65535 y:5003 ty:60532 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:0 ny:0 zx:1 zy:1 no:0 x:10101 tx:0 y:5003 ty:0 f:1
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:0 ny:0 zx:1 zy:1 no:1 x:10101 tx:0 y:5003 ty:0 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:65535 output:65535
+ nx:0 ny:1 zx:1 zy:1 no:0 x:10101 tx:0 y:5003 ty:65535 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:0 ny:1 zx:1 zy:1 no:1 x:10101 tx:0 y:5003 ty:65535 f:1
+\zr:0 tzr:1
+ ZR error
+
+
+python:65535 output:65535
+ nx:1 ny:0 zx:1 zy:1 no:0 x:10101 tx:65535 y:5003 ty:0 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:0 output:0
+ nx:1 ny:0 zx:1 zy:1 no:1 x:10101 tx:65535 y:5003 ty:0 f:1
+\zr:0 tzr:1
+ ZR error
+
+
+python:65534 output:65534
+ nx:1 ny:1 zx:1 zy:1 no:0 x:10101 tx:65535 y:5003 ty:65535 f:1
+\zr:1 tzr:0
+ ZR error
+
+
+python:1 output:1
+ nx:1 ny:1 zx:1 zy:1 no:1 x:10101 tx:65535 y:5003 ty:65535 f:1
+\zr:1 tzr:0
+ ZR error
+
+ALU Gate test ... Fail
